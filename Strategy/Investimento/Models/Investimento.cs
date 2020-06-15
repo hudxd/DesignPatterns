@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Investimento.Models
+﻿namespace Investimento.Models
 {
     public class Investimento
     {

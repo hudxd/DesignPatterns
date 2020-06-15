@@ -1,5 +1,4 @@
-﻿using System;
-using Investimento.TiposInvestidor;
+﻿using Investimento.TiposInvestidor;
 
 namespace Investimento
 {
@@ -7,7 +6,7 @@ namespace Investimento
     {
         static void Main(string[] args)
         {
-            
+
             var investimento = new Models.Investimento(1000);
 
             var conservador = new Conservador();

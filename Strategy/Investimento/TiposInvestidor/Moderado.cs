@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using Investimento.Interfaces;
+﻿using Investimento.Interfaces;
+using System;
 
 namespace Investimento.TiposInvestidor
 {
