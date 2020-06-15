@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Strategy", "Strategy", "{C2540B7E-C96A-4034-A931-2639FF875E14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Imposto", "Strategy\Imposto\Imposto.csproj", "{AB8457F4-A220-4FC1-B3B8-117C95608028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Investimento", "Strategy\Investimento\Investimento.csproj", "{7F6F308B-F40A-4150-B726-A860940CC0ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB8457F4-A220-4FC1-B3B8-117C95608028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8457F4-A220-4FC1-B3B8-117C95608028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8457F4-A220-4FC1-B3B8-117C95608028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8457F4-A220-4FC1-B3B8-117C95608028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F6F308B-F40A-4150-B726-A860940CC0ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F6F308B-F40A-4150-B726-A860940CC0ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F6F308B-F40A-4150-B726-A860940CC0ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F6F308B-F40A-4150-B726-A860940CC0ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AB8457F4-A220-4FC1-B3B8-117C95608028} = {C2540B7E-C96A-4034-A931-2639FF875E14}
+		{7F6F308B-F40A-4150-B726-A860940CC0ED} = {C2540B7E-C96A-4034-A931-2639FF875E14}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04BBF90B-825F-4D28-844E-C6B554556F12}
+	EndGlobalSection
+EndGlobal
